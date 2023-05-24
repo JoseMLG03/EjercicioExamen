@@ -1,3 +1,5 @@
+import com.empresa.tutorial_java.paso_valor.paso_objetos.Clase;
+
 import java.util.Arrays;
 
 public class Main {
